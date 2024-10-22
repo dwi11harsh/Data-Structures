@@ -1,0 +1,3 @@
+- In C, the rule is to declare all the functions before using them.
+- Header files (`like <stdio.h>`) includes all the declarations from that file.
+- The main input functions `scanf()` and `getchar()` and the output functions `printf()` and `putchar()`
