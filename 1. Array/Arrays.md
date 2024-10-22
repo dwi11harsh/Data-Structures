@@ -1,0 +1,2 @@
+- To study Array, just go to [this link](https://github.com/dwi11harsh/C-Revision/tree/main/5.%20Arrays) for remote access
+- Or go to [[1. Storing 1D Array]] and then go to subsequent files from same section.
