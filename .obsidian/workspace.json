@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6973422804d866c9",
@@ -154,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -164,7 +166,7 @@
   },
   "active": "17b4c4284bfc1458",
   "lastOpenFiles": [
-    "Screenshot 2024-10-22 at 2.38.26 PM.png",
+    "public/Screenshot 2024-10-22 at 2.38.26 PM.png",
     "3. Storage/1. Storage Classes.md",
     "3. Storage/2. Storage Management.md",
     "3. Storage/Untitled",
