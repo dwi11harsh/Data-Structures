@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6973422804d866c9",
@@ -165,8 +166,11 @@
   },
   "active": "17b4c4284bfc1458",
   "lastOpenFiles": [
-    "7. Recursion/2. Number of Function Calls.md",
+    "Screenshot 2024-10-23 at 11.55.57 AM.png",
+    "Screenshot 2024-10-23 at 11.55.35 AM.png",
+    "Screenshot 2024-10-23 at 11.54.53 AM.png",
     "8. Linked List/1. Singly Linked List.md",
+    "7. Recursion/2. Number of Function Calls.md",
     "8. Linked List",
     "public/Screenshot 2024-10-23 at 11.34.14 AM.png",
     "7. Recursion/1. Introduction.md",
@@ -177,8 +181,6 @@
     "public/Screenshot 2024-10-23 at 11.22.48 AM.png",
     "public/Screenshot 2024-10-23 at 11.20.07 AM.png",
     "public/Screenshot 2024-10-23 at 11.17.09 AM.png",
-    "public/Screenshot 2024-10-23 at 11.13.45 AM.png",
-    "public/Screenshot 2024-10-23 at 11.12.51 AM.png",
     "6. File Handling in C/4. Read-Write to a file.md",
     "7. Recursion",
     "6. File Handling in C/3. getc() & putc().md",
