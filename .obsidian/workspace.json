@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9. Stack and Queues/1. Introduction.md",
+                "file": "9. Stack and Queues/2. Stacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction"
+              "title": "2. Stacks"
             }
           }
         ]
@@ -166,8 +166,9 @@
   },
   "active": "83555b07a84c6f2f",
   "lastOpenFiles": [
-    "8. Linked List/3. Implementing Singly Linked List.md",
     "9. Stack and Queues/1. Introduction.md",
+    "9. Stack and Queues/2. Stacks.md",
+    "8. Linked List/3. Implementing Singly Linked List.md",
     "9. Stack and Queues",
     "public/Screenshot 2024-10-23 at 12.13.03 PM.png",
     "8. Linked List/2. Operations on Singly Linked List.md",
