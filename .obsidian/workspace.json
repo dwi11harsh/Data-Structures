@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. File Handling in C/3. getc() & putc().md",
+                "file": "6. File Handling in C/4. Read-Write to a file.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. getc() & putc()"
+              "title": "4. Read-Write to a file"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "17b4c4284bfc1458",
   "lastOpenFiles": [
-    "6. File Handling in C/2. gets() & puts().md",
     "6. File Handling in C/3. getc() & putc().md",
+    "6. File Handling in C/4. Read-Write to a file.md",
+    "6. File Handling in C/2. gets() & puts().md",
     "6. File Handling in C/1. Introduction.md",
     "Screenshot 2024-10-23 at 9.50.50 AM.png",
     "public/Screenshot 2024-10-23 at 9.14.18 AM.png",
