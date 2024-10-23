@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. File Handling in C/1. Introduction.md",
+                "file": "6. File Handling in C/2. gets() & puts().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction"
+              "title": "2. gets() & puts()"
             }
           }
         ]
@@ -166,9 +166,10 @@
   },
   "active": "17b4c4284bfc1458",
   "lastOpenFiles": [
+    "6. File Handling in C/1. Introduction.md",
+    "6. File Handling in C/2. gets() & puts().md",
     "Screenshot 2024-10-23 at 9.50.50 AM.png",
     "public/Screenshot 2024-10-23 at 9.14.18 AM.png",
-    "6. File Handling in C/1. Introduction.md",
     "6. File Handling in C",
     "5. Input-Output/4. Conversion Specification.md",
     "public/Screenshot 2024-10-23 at 9.20.57 AM.png",
@@ -184,7 +185,6 @@
     "4. Structures and Unions/1. Structures.md",
     "5. Input-Output",
     "public/Screenshot 2024-10-22 at 4.04.19 PM.png",
-    "public/Screenshot 2024-10-22 at 3.40.32 PM.png",
     "3. Storage/2. Storage Management.md",
     "4. Structures and Unions",
     "3. Storage/1. Storage Classes.md",
