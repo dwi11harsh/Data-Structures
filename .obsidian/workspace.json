@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6973422804d866c9",
@@ -164,8 +163,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17b4c4284bfc1458",
+  "active": "b5802f875340b9f0",
   "lastOpenFiles": [
+    "7. Recursion",
     "6. File Handling in C/3. getc() & putc().md",
     "6. File Handling in C/4. Read-Write to a file.md",
     "6. File Handling in C/2. gets() & puts().md",
