@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6973422804d866c9",
@@ -169,7 +170,7 @@
     "6. File Handling in C/4. Read-Write to a file.md",
     "6. File Handling in C/2. gets() & puts().md",
     "6. File Handling in C/1. Introduction.md",
-    "Screenshot 2024-10-23 at 9.50.50 AM.png",
+    "public/Screenshot 2024-10-23 at 9.50.50 AM.png",
     "public/Screenshot 2024-10-23 at 9.14.18 AM.png",
     "6. File Handling in C",
     "5. Input-Output/4. Conversion Specification.md",
