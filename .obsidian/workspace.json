@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6973422804d866c9",
@@ -167,10 +166,10 @@
   "active": "4ad70da12694d434",
   "lastOpenFiles": [
     "8. Linked List/2. Operations on Singly Linked List.md",
+    "8. Linked List/1. Singly Linked List.md",
+    "8. Linked List/3. Implementing Singly Linked List.md",
     "9. Stack and Queues/3. Queue.md",
     "9. Stack and Queues/2. Stacks.md",
-    "8. Linked List/3. Implementing Singly Linked List.md",
-    "8. Linked List/1. Singly Linked List.md",
     "9. Stack and Queues/1. Introduction.md",
     "9. Stack and Queues",
     "public/Screenshot 2024-10-23 at 12.13.03 PM.png",
